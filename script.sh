@@ -1,7 +1,8 @@
 #!/bin/bash
 
 sudo apt-get update -y &&
-
+sudo apt-get npm nodejs -y &&
+sudo apt-get -y install vsftpd &&
 sudo apt-get install apache2 aptitude -y &&
 
 sudo apt-get install php libapache2-mod-php php-mcrypt php-mysql -y &&
