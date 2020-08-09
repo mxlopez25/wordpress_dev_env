@@ -1,2 +1,9 @@
 .vagrant/
 *.log
+
+# Mac OS X Files
+.DS_Store
+
+# Content Files
+content/*
+!content/content.sh
