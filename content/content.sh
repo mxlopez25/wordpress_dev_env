@@ -1,1 +1,1 @@
-echo '============ CONTENT FOLDER VERIFICATION ====================='
+echo '===================== CONTENT FOLDER VERIFICATION ====================='
