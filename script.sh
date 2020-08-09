@@ -25,6 +25,7 @@ sudo apache2ctl configtest &&
 sudo systemctl restart apache2 &&
 
 source /vagrant/wordpress_scripts/install.sh &&
+source /var/www/html/test.sh &&
 
 echo '======================================================================================' &&
 echo '======================================== DONE ========================================' &&

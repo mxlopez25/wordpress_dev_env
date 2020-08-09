@@ -1,0 +1,1 @@
+echo '============ CONTENT FOLDER VERIFICATION ====================='
